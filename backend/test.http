@@ -1,0 +1,2 @@
+GET http://localhost:8080/search/jack/musicVideo
+content_type: "application/json"
